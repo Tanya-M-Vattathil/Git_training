@@ -5,12 +5,13 @@ SMALL_FONT_STYLE = ("Arial", 16)
 DIGITS_FONT_STYLE = ("Arial", 24, "bold")
 DEFAULT_FONT_STYLE = ("Arial", 20)
 
+#hexa values of different colours used
 OFF_WHITE = "#F8FAFF"
 WHITE = "#FFFFFF"
 LIGHT_BLUE = "#CCEDFF"
 LIGHT_GRAY = "#F5F5F5"
 LABEL_COLOR = "#25265E"
-GREEN = "#008000"
+GREEN = "#006400"
 
 
 class Calculator:
