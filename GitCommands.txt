@@ -1,0 +1,8 @@
+Important Git Commands
+
+git configure
+git init
+git status
+git add
+git commit
+git mv
