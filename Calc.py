@@ -142,7 +142,7 @@ class Calculator:
             self.update_label()
 
     def create_equals_button(self):
-        button = tk.Button(self.buttons_frame, text="=", bg=GREEN, fg=LABEL_COLOR, font=DEFAULT_FONT_STYLE,
+        button = tk.Button(self.buttons_frame, text="=", bg=LIGHT_BLUE, fg=LABEL_COLOR, font=DEFAULT_FONT_STYLE,
                            borderwidth=0, command=self.evaluate)
         button.grid(row=4, column=3, columnspan=2, sticky=tk.NSEW)
 
