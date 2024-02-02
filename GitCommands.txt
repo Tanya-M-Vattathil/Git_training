@@ -7,9 +7,9 @@ git add
 git commit
 git mv
 
-Branching Commands
-git branch 
-git switch 
-git merge 
-
+Commands used for Branching 
+git branch "branch name"
+git switch "branch name"
+git merge -m "message" "branch name"
+git branch -d
 
